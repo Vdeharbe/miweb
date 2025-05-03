@@ -1,0 +1,10 @@
+var pizza = 2800;
+var hamburgueza = 1300;
+var cocca = 900;
+var vino = 650;
+var comida = pizza + hamburgueza;
+var bebida = cocca + vino;
+var total= comida + bebida;
+console.log ("El total de su bebida es: "+ bebida);
+console.log("El total de su comida es: "+ comida);
+alert("El tota de su cuenta es: " + total);
